@@ -2,6 +2,7 @@ list cited in the repository description
 
 Archive name: CVE
 GHSA-2gg5-7c4v-6xx2.json: CVE-2022-3212
+
 GHSA-2m65-m22p-9wjw.json: CVE-2022-34716
 GHSA-2w9p-xf5h-qwj3.json: CVE-2018-25083
 GHSA-32q7-gv7f-4cg5.json: CVE-2024-21386
